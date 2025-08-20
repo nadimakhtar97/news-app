@@ -11,11 +11,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mytodoapp"
+    namespace = "com.nadim.android.newsapp"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.mytodoapp"
+        applicationId = "com.nadim.android.newsapp"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
